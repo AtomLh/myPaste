@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+*.xcodeproj/
+DerivedData/
+.DS_Store
+build/
+
+# Local-only files
+.claude/
+PLAN.md
+PROGRESS.md
+BLOCKED.md
+docs/
